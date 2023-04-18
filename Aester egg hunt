@@ -1,0 +1,7 @@
+Hindi ko Alam kung gagana sa inyo to
+loadstring(game:HttpGetAsync("https://bloxscripts.fun/scripts/3100e000aa.lua", true))()
+
+
+
+Egg hunt Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Levi4Chan/Rblx-Scripts/main/Auto-Easter-Egg.lua"))()
